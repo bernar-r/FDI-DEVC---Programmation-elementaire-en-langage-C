@@ -20,6 +20,7 @@ Le charactere I represente votre personnage.
 Le charactere i represente votre personnage sur la cle.  
 Le charactere ! represente Rooster.  
 Le charactere O represente l'emplacement de votre personnage en au commencement de chaque salle.  
+  
 -----------------------------------------------------------------------------------  
 
 Ici Little Hen...
