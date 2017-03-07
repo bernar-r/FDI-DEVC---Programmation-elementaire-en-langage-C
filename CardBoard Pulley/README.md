@@ -1,25 +1,25 @@
 Petit jeu créé en 5 jours a 2 à l'Etna.  
 
-Commande "make" dans le dossier libmy puis, compiler l'ensemble du dossier src avec la libmy.
----------------------------------------------------------
-W : vous fait avancer vers le haut d'une case.
-S : vous fait avancer vers le bas d'une case.
-D : vous fait avancer vers la droite d'une case.
-A : vous fait avancer vers la gauche d'une case.
-Espace : vous permet de recuperer la cle et de parler a Rooster.
-E : Vous permet d'utiliser la cle sur une porte.
-C : Vous permet de vous allonger ou de vous mettre debout.
-Le charactere X represente un mur.
-Le characteres x represente une porte fermee.
-Le characteres H represente un obsctacle.
-Le characteres K represente la cle a recuperer.
-Le charactere _ represente votre personnage en position allongee.
-Le charactere espace repsente une case praticable.
-Le charactere I represente votre personnage.
-Le charactere i represente votre personnage sur la cle.
-Le charactere ! represente Rooster.
-Le charactere O represente l'emplacement de votre personnage en au commencement de chaque salle.
------------------------------------------------------------------------------------
+Commande "make" dans le dossier libmy puis, compiler l'ensemble du dossier src avec la libmy.  
+---------------------------------------------------------  
+W : vous fait avancer vers le haut d'une case.  
+S : vous fait avancer vers le bas d'une case.  
+D : vous fait avancer vers la droite d'une case.  
+A : vous fait avancer vers la gauche d'une case.  
+Espace : vous permet de recuperer la cle et de parler a Rooster.  
+E : Vous permet d'utiliser la cle sur une porte.  
+C : Vous permet de vous allonger ou de vous mettre debout.  
+Le charactere X represente un mur.  
+Le characteres x represente une porte fermee.  
+Le characteres H represente un obsctacle.  
+Le characteres K represente la cle a recuperer.  
+Le charactere _ represente votre personnage en position allongee.  
+Le charactere espace repsente une case praticable.  
+Le charactere I represente votre personnage.  
+Le charactere i represente votre personnage sur la cle.  
+Le charactere ! represente Rooster.  
+Le charactere O represente l'emplacement de votre personnage en au commencement de chaque salle.  
+-----------------------------------------------------------------------------------  
 
 Ici Little Hen...
 
