@@ -1,6 +1,7 @@
 Petit jeu créé en 5 jours a 2 à l'Etna.  
-
+  
 Commande "make" dans le dossier libmy puis, compiler l'ensemble du dossier src avec la libmy.  
+
 ---------------------------------------------------------  
 W : vous fait avancer vers le haut d'une case.  
 S : vous fait avancer vers le bas d'une case.  
